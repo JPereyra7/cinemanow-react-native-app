@@ -41,12 +41,6 @@ CinemaNow är en stilren React Native-app inspirerad av Netflix, där du kan se 
 Projektet använder [The Movie Database (TMDB)](https://www.themoviedb.org/). Lägg till din `API_KEY` i `fetchMovies.ts`.
 
 
-## 📸 Skärmdump
-
-![CinemaNow](https://github.com/JPereyra7/cinemanow-react-native-app/raw/main/assets/printscreen.png)
-
-## 🧑‍💻 Utvecklare
-
 By [Joel P](https://github.com/JPereyra7)
 
 ---
