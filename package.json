@@ -1,5 +1,5 @@
 {
-  "name": "my-expo-app",
+  "name": "Cinema-Now",
   "version": "1.0.0",
   "scripts": {
     "android": "expo start --android",
@@ -11,13 +11,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.9.0",
     "expo": "^53.0.10",
+    "expo-linear-gradient": "^14.1.5",
+    "expo-screen-orientation": "^8.1.7",
     "expo-status-bar": "~2.2.3",
     "nativewind": "latest",
     "react": "19.0.0",
     "react-native": "0.79.3",
+    "react-native-modal": "^14.0.0-rc.1",
     "react-native-reanimated": "~3.17.4",
-    "react-native-safe-area-context": "5.4.0"
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-webview": "^13.14.2",
+    "react-native-youtube-iframe": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
